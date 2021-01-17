@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1047237853852",
+    "firebase_url": "https://chocomart-mx.firebaseio.com",
+    "project_id": "chocomart-mx",
+    "storage_bucket": "chocomart-mx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047237853852:android:d4007344dc8d243063e359",
+        "android_client_info": {
+          "package_name": "com.mx.chocomart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047237853852-9gl3s2vrjlpt1ut9kekghql91lhtapjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8c6LMdjW_4ohIYmIiIApuv_KES4mLG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047237853852-9gl3s2vrjlpt1ut9kekghql91lhtapjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047237853852-ddm0s9mnii43tcjr3l9dhm46eg0g0q44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mx.chocomart.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047237853852:android:fd10dad1c17cab2a63e359",
+        "android_client_info": {
+          "package_name": "com.mx.chocomart.app_owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047237853852-9gl3s2vrjlpt1ut9kekghql91lhtapjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8c6LMdjW_4ohIYmIiIApuv_KES4mLG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047237853852-9gl3s2vrjlpt1ut9kekghql91lhtapjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047237853852-ddm0s9mnii43tcjr3l9dhm46eg0g0q44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mx.chocomart.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
